@@ -1,2 +1,4 @@
 # nodebase
 node简单应用练习
+自学node主要是了解一下node的文件操作
+node创建简单一个服务应用
